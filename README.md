@@ -17,5 +17,6 @@ Użytkownik ustawia wartość zadaną poziomu cieczy i temperatury (np. suwakami
 
 
 ## skróty klawiszowe:
-- Ctrl+b czyści niedziałające elementy.
+- ctrl+b czyści niedziałające elementy.
 - ctl+u  auto-cleanup do kabli.
+- ctrl+h context okienko.
