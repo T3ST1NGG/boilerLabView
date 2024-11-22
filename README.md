@@ -14,3 +14,8 @@ Aktualny poziom cieczy.
 Temperaturę cieczy.  
 Alarmy włączają się, gdy poziom cieczy przekroczy górny limit lub spadnie poniżej dolnego limitu.  
 Możesz dodać symulację grzałki, która ogrzewa ciecz do zadanej temperatury.  
+
+
+## skróty klawiszowe:
+- Ctrl+b czyści niedziałające elementy.
+- ctl+u  auto-cleanup do kabli.
