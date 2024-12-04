@@ -1,0 +1,17 @@
+Temp: 23
+Temp: 25
+Temp: 27
+Temp: 29
+Temp: 31
+Temp: 33
+Temp: 35
+Temp: 37
+Temp: 39
+Temp: 41
+Temp: 43
+Temp: 45
+Temp: 47
+Temp: 49
+Temp: 51
+Temp: 53
+Temp: 55
